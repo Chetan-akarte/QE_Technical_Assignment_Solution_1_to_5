@@ -1,0 +1,22 @@
+{
+  "graph": {
+    "node": [
+      {
+        "name": "Infosys",
+        "empcount": "250000"
+      },	
+      {
+        "name": "TCS",
+        "empcount": "450000"
+      },
+      {
+        "name": "Wipro Ltd.",
+        "empcount": "150000"
+      },
+      {
+        "name": "CTS",
+        "empcount": "225000"
+      }
+    ]
+  }
+}

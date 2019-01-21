@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <graph>
+        <node>
+            <name>TCS</name>
+            <empcount>450000</empcount>
+        </node>
+        <node>
+            <name>Infosys</name>
+            <empcount>250000</empcount>
+        </node>
+        <node>
+            <name>CTS</name>
+            <empcount>225000</empcount>
+        </node>
+        <node>
+            <name>Wipro</name>
+            <empcount>150000</empcount>
+        </node>
+    </graph>
+</root>

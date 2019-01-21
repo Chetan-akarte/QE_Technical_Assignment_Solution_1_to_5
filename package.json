@@ -1,0 +1,17 @@
+{
+  "name": "qe_technical_assignment_solution_1_to_5",
+  "version": "1.0.0",
+  "description": "QE Technical Solution for 1 to 5 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chetan Akarte",
+  "license": "ISC",
+  "dependencies": {
+    "chilkat_node10_win32": "^9.50.76",
+    "easy-soap-request": "^2.3.6",
+    "os": "^0.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
